@@ -1,0 +1,227 @@
+zh_cn({
+	"basicInfo": {
+		"name": "任久成 ♂男",
+		"title": "☆ JAVA开发 ☆ 项目经理",
+		"profileInfo": "本人性格开朗、稳重、真诚。大学毕业后，工作中接触Java，通过自学后就一直在从事Java开发工作。做事勤恳、细心，富有工作责任心，喜欢与人交流。善于思考，学习理解和适应能力强。在工作上非常认真，希望通过自己的不懈努力，赚到更多的钱，过上更好的生活。善于坚持，不卑不亢，从不放弃。",
+		"email": "728747478@qq.com",
+		"mobile": "18842574430",
+		"website": "https://ren88122246.github.io/",
+		"authorTitle": "作者",
+		"authorValue": "朝雨忆轻尘",
+		"sourceCode": "源码下载"
+	},
+	"experiences": {
+		"navTitle": "工作经验",
+		"sectionTitle": "工作经验",
+		"workExperiences": [{
+			"place": "整点科技股份有限公司",
+			"location": "沈阳",
+			"title": "项目经理 技术部",
+			"industry": "计算机软件/服务供应商",
+			"time": "2019.10 — 至今",	
+			"jobDesc": "在职期间任项目经理一职，给做电商的甲方完成了会员管理系统。我主要负责需求的沟通，任务的拆解分配，以及代码质量、项目进度的把控。由于我们项目完成的非常好，又给公司争取到了cms和oms两个系统的开发合同。"
+		}, {
+			"place": "易讯科技股份有限公司",
+			"location": "沈阳",
+			"title": "Java开发 基础研发部",
+			"industry": "管理平台/基础架构",
+			"time": "2019.4—2019.10",
+			"jobDesc": "在职期间担任Java开发工程师一职，主要进行沈阳自贸区-金融服务平台的开发工作。在项目中，主要对接产品经理，对需求进行拆分和分派，每周进行2次研发进度汇报。该系统以在自贸区上线。"
+		}, {
+			"place": "东网科技股份有限公司",
+			"location": "沈阳",
+			"title": "Java开发 应用研发部",
+			"industry": "互联网/云平台/SaaS供应商",
+			"time": "2018.4—2019.4",
+			"jobDesc": "在部门推广前后端分离开发技术，前端使用vue，后端使用spring boot，得到质量管理部的支持，在内部组织培训。前后端分离式开发大大加快了我们应用程序的开发速度，再加上平时工作积极肯干，获得了领导的肯定，并在内部邮件发送了表扬信。"
+		}]
+	},
+	"projects": {
+		"navTitle": "项目经验",
+		"sectionTitle": "项目经验",
+		"projectEnv": "技术环境",
+		"projectDesc": "项目描述",
+		"responsibilityDesc": "责任描述",
+		"projectExperiences": [{
+			"name": "会员管理系统",
+			"location": "沈阳",
+			"title": "项目经理 整点科技",
+			"industry": "计算机软件/服务供应商",
+			"time": "2019.11 - 2020.01",	
+			"env": "Vue.js + Element + Spring Boot + Mybatis Plus + RabbitMQ + Maven",	
+			"desc": "会员系统是电商平台的一部分，负责会员体系、会员等级、会员积分以及会员积分的分发等。",
+			"responsibility": "制定和补充团队的开发流程和规范，和甲方沟通需求并根据需求做表设计。提炼需求到具体的开发任务，并对开发任务进行拆解分派，协调前端、后端和测试人员工作。定时和客户沟通开发进度，关键业务部分亲自开发。检查代码质量，以保证所有代码可以通过阿里巴巴代码规范。在工期内按时交付，得到了客户的高度认可。"
+		}, {
+			"name": "福兴智慧养老",
+			"location": "沈阳",
+			"title": "项目经理 整点科技",
+			"industry": "互联网",
+			"time": "2019.10-2019.12",
+			"env": "JavaScript + LayUi + Spring Mvc + Mybatis + Maven + echarts",	
+			"desc": "“福兴智慧养老”平台是一个为老年人提供养老的平台，该平台由一个后端管理系统和一个小程序组成。在该平台上，商家可以上线自己的服务或产品，老人可以在小程序端进行购买。也可以通过硬件设备，例如手环，摄像头，追踪老人的健康状况、定位信息等。并可添加医疗团队，和老人进行绑定，针对性服务。",
+			"responsibility": "该项目是从上一个项目经理接手的一个项目，之前的项目存在很大的延期风险。我接手后，首先对项目需求进行梳理分析，接着开始对人力资源合理安排，我们缺少的人力及时和领导交流沟通，及时招聘。拆解需求分配到个人，让每个人都运转起来。和甲方沟通需求，每天对项目进度进行跟进。优先对甲方最关心的需求进行了解决，重取甲方信任。最后，经过团队的不懈努力，项目得以按时交付。"
+		}, {
+			"name": "沈阳自贸区金融服务平台",
+			"location": "沈阳",
+			"title": "Java开发工程师 易讯科技",
+			"industry": "开发平台/电子商务",
+			"time": "2019.5—2019.8",
+			"env": "Vue.js + Element + Spring boot + Mybatis + Dubbo + Maven + Nexus + zoolkeeper",	
+			"desc": "金融服务平台是沈阳自贸区为企业提供贷款信息的一个平台。自贸区联合了沈阳8家银行3家保险为贷款提供支持。金融机构和企业都可以在该平台上注册，并进行匹配。如果匹配成功，则可通过联系方式进行进一步沟通。平台也分为两部分，外网部分主要是展示，匹配。内网部分可以进行登录，发布金融产品或融资需求等操作。",
+			"responsibility": "我在该项目中，和项目经理进行对接。将他提出的需求转化为具体的开发需求，将需求进行划分分配。根据项目进度，每周汇报两次。自己作为开发人员，也承担开发任务。前端使用vue，后端使用springboot。"
+		}]
+	},
+	"education": {
+		"navTitle": "教育经历",
+		"sectionTitle": "教育经历",
+		"educations": [{
+			"educationBody": "辽宁工程技术大学",
+			"degree": "大学/本科",
+			"time": "2009 - 2013",
+			"desc": "就读于辽宁工程技术大学，自动化专业，大学本科毕业，获学士学位。"
+		}, {
+			"educationBody": "沈阳市第五中学",
+			"degree": "中学生",
+			"time": "2006 - 2009",
+			"desc": "就读于沈阳市第五中学，度过三年高中学习生涯，顺利完成相关学业。"
+		}, {
+			"educationBody": "沈阳市第五十中学",
+			"degree": "中学生",
+			"time": "2003 - 2006",
+			"desc": "就读于沈阳市第五十中学，度过三年初中学习生涯，顺利完成相关学业。"
+		}]
+	},
+	"skills": {
+		"navTitle": "专业技能",
+		"sectionTitle": "专业技能",
+		"topSkills": [{
+			"name": "Java",
+			"percent": "98",
+			"level": "Expert, 6+ years",
+			"time": "2013 - Present",
+			"desc": "2013年毕业后，由于工作原因接触Java，于是自学Java并从事相关工作直到现在。"
+		}, {
+			"name": "Spring Boot",
+			"percent": "97",
+			"level": "Expert, 3+ years",
+			"time": "2016 - Present",
+			"desc": "使用spring boot架构让以前的spring mvc的配置变得更简单，而且可以满足大部分的开发需求，非常高效。"
+		}, {
+			"name": "Vue",
+			"percent": "80",
+			"level": "Expert, 2+ years",
+			"time": "2017 - Present",
+			"desc": "vue架构让开发变得快速搞笑，尤其是市场上还提供了很多支持Vue的第三方ui，让前端的开发人员只需把自己的注意力集中在业务开发就可以了。"
+		}],
+		"otherSkills": [{
+			"name": "HTML5"
+		}, {
+			"name": "CSS3"
+		}],
+		"skillItems": [{
+			"name": "☆ 熟知JAVA EE体系，知晓JAVA体系中各个领域与层面所需的相关知识与技术，熟知JAVA EE历史发展进程。"
+		}, {
+			"name": "☆ 掌握前台开发，掌握Vue.js、Element UI、HTML、CSS、JavaScript、AJAX、JQuery等主流前端技术的使用。"
+		}, {
+			"name": "☆ 熟悉敏捷开发模式，对敏捷开发有比较丰富的体验和深刻的理解，具备良好的敏捷团队组建和培养实践经验。"
+		}, {
+			"name": "☆ 熟练掌握使用Maven进行产品构建，使用Nexus搭建私服，使用Hudson、Jenkins进行持续化构建与部署。"
+		}, {
+			"name": "☆ 熟练掌握MySQL、Oracle等数据库，Mongo DB等No SQL，掌握Redis等缓存技术和RabbitMQ等消息中间件。"
+		}, {
+			"name": "☆ 深入理解Spring IOC与AOP原理，MyBatis、JPA等持久化原理，Tomcat服务器原理，Docker容器技术原理。"
+		}, {
+			"name": "☆ 掌握UML统一建模语言，了解常用的软件开发模式，擅长敏捷开发模式，熟悉Linux环境下常用命令的使用。"
+		}, {
+			"name": "☆ 熟悉云计算相关知识，掌握IaaS/PaaS/SaaS相关体系，掌握Docker容器虚拟化技术原理、环境搭建与运用。"
+		}]
+	},
+	"portfolio": {
+		"navTitle": "作品展示",
+		"sectionTitle": "作品展示",
+		"categories": [{
+			"name": "backend",
+			"title": "Back-end",
+			"desc": "后端项目"
+		}, {
+			"name": "frontend",
+			"title": "Front-end",
+			"desc": "前端项目"
+		}],
+		"portfolios": [{
+			"img": "assets/images/portfolio/ployun.png",
+			"title": "武当云平台",
+			"category": "backend",
+			"technique": "Java",
+			"desc": "专注于航空航天、船舶运输、轨道交通行业的垂直领域云平台。",
+			"url": "http://www.ployun.cn/"
+		}, {
+			"img": "assets/images/portfolio/portfolio-1.jpg",
+			"title": "kitty [开源项目]",
+			"category": "backend",
+			"technique": "Java",
+			"desc": "基于Spring Boot和Spring Cloud实现的后台权限管理系统。",
+			"url": "https://gitee.com/liuge1988/kitty"
+		}, {
+			"img": "assets/images/portfolio/portfolio-2.jpg",
+			"title": "kitty-ui [开源项目]",
+			"category": "frontend",
+			"technique": "Vue.js",
+			"desc": "Kitty 前端，基于 Vue + Element 实现的后台权限管理系统。",
+			"url": "https://gitee.com/liuge1988/kitty-ui"
+		}, {
+			"img": "assets/images/portfolio/portfolio-3.jpg",
+			"title": "brilliant [开源项目]",
+			"category": "frontend",
+			"technique": "Vue.js",
+			"desc": "帮助专业技术、设计人员快速打造自己优质的个人网站、在线简历。",
+			"url": "https://gitee.com/liuge1988/brilliant"
+		}, {
+			"img": "assets/images/portfolio/portfolio-4.jpg",
+			"title": "华山智能化工厂",
+			"category": "backend",
+			"technique": "Java",
+			"desc": "基于无线定位和扫码技术，优化工厂生产流程，实现智能化工厂。",
+			"url": "http://139.196.87.48:9002/kitty"
+		}, {
+			"img": "assets/images/portfolio/portfolio-5.jpg",
+			"title": "峨眉快速开发平台",
+			"category": "backend",
+			"technique": "Java",
+			"desc": "基于领域建模的JAVA EE可视化建模平台，实现软件开发建模化。",
+			"url": "http://139.196.87.48:9002/kitty"
+		}, {
+			"img": "assets/images/portfolio/portfolio-6.jpg",
+			"title": "六脉可视化建模平台",
+			"category": "backend",
+			"technique": "Java",
+			"desc": "基于领域建模概念，方便快速打造各种可视化建模工具的建模平台。",
+			"url": "https://gitee.com/liuge1988/brilliant"
+		}, {
+			"img": "assets/images/portfolio/portfolio-7.jpg",
+			"title": "嵩山少林WLAN网管系统",
+			"category": "backend",
+			"technique": "Java",
+			"desc": "嵩山少林无线网管系统，监控网络设备状态，提供有效监控和管理。",
+			"url": "https://gitee.com/liuge1988/brilliant"
+		}]
+	},
+	"contact": {
+		"navTitle": "联系方式",
+		"sectionTitle": "联系方式",
+		"notice": "我目前就职于一家软件企业，担任项目经理职务，主要带领公司研发团队进行软件项目的研发，项目进度的把控，技术团队的管理，团队任务的协调，系统上线运维的安排等工作。因为自己平时也喜欢参与编码，所以工作还是比较忙的，如果有什么需要，可以通过下面提供的方式联系我。",
+		"message": "欢迎给我留言",
+		"call": "或者致电",
+		"thanks": "，感谢您的访问。",
+		"provideServices": "提供服务：",
+		"services": [{
+			"name": "担任技术总监职务，主持公司系统的架构和研发，技术团队的管理和培养"
+		}, {
+			"name": "担任系统架构师职务，主持公司系统的架构和研发，技术团队的管理和培养"
+		}, {
+			"name": "担任技术经理职务，主持公司系统的架构和研发，技术团队的管理和培养"
+		}, {
+			"name": "担任项目经理职务，管理公司项目，培养技术团队，协调团队合作和研发工作"
+		}]
+	}
+})
