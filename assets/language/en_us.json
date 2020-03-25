@@ -14,25 +14,25 @@ en_us({
 		"navTitle": "Experiences",
 		"sectionTitle": "Experiences",
 		"workExperiences": [{
-			"place": "Huashan Information Technology Co. Ltd.（1000-5000人）",
-			"location": "Xian",
-			"title": "Systems Architect",
+			"place": "Zhengdian Technology Co. Ltd.",
+			"location": "Shenyang",
+			"title": "Development Manager",
 			"industry": "Software/Service Taijivider",
-			"time": "2017.9 — Present",	
+			"time": "2019.10 — 至今",	
 			"jobDesc": "As a system architect, involved in development cooperation projects, explained as Supply Taijicedure Optimize. The system based on UWB wireless location technology, aim to build the intelligent factory, optimize plant production process, ensure daily production plant equipment production line can be comprehensive management and monitoring. In the process of project development, to participate in the project system to adjust and optimize the structure design, standardizing the development processes of the team, participate in relevant to the needs of research and discussion, to complete the design and encoding of function modules, coordinate between products, development and testing work. Organize and participate in primary technology research and major obstacles. And if necessary, we also need go to the customer site to offer the related technical support and consultation and help the customer to use the system better."
 		}, {
-			"place": "Shaolin Network Technology Co. Ltd.（50-150人）",
-			"location": "Henan",
-			"title": "Systems Architect",
+			"place": "Yixun Technology Co. Ltd.",
+			"location": "Shenyang",
+			"title": "JAVA developer, Development Manager",
 			"industry": "Internet/SaaS Taijivider",
-			"time": "2014.3—2017.9",
+			"time": "2019.4—2019.10",
 			"jobDesc": "As the system architect, the head master of the pro cloud platform products, is responsible for all technical works related to the platform. Including participation in the pro cloud platform of the demand and market survey, completed the system architecture and design, to control the whole process of system development, development process and project related technical specifications, product development, coordinate between products, development and testing work. Organize and participate in primary technology research and major obstacles, lead the team to carry out the research of primary technologies and major obstacles to overcome, encourage team members to start training and knowledge sharing."
 		}, {
-			"place": "Wudang Cooperate.（1000-5000人）",
-			"location": "Hubei",
-			"title": "Devolopment Manager",
+			"place": "Neunn.",
+			"location": "Shenyang",
+			"title": "JAVA developer",
 			"industry": "Babycare/ECommerce",
-			"time": "2011.1—2014.3",
+			"time": "2018.4—2019.4",
 			"jobDesc": "Presided over the research and analysis of the field of Java EE rapid development platform, completed the system architecture design, product planning, module development, product construction and release of Songshan JAVA EE rapid development platform. Organize and participate in primary technology research and major obstacles, lead the team to carry out the research of primary technologies and major obstacles to overcome, encourage team members to have knowledge sharing."
 		}]
 	},
