@@ -1,11 +1,11 @@
 en_us({
 	"basicInfo": {
-		"name": "Wang Yuyan ♂ Female",
+		"name": "Ren Jiucheng ♂ Male",
 		"title": "☆ JAVA ☆ Systems Architect ☆ Devolopment Manager",
-		"profileInfo": "I have great interested in science, physics and math since I was a girl. I still remember the first time I play computer in junior middle school, that made me excited. I began programming in senior middle school, I love it and determined to be a engineer in the future and I did. When I got my computer science degree at Babu University of Tianlong in 2011, I had worked for several company with Java Taijigramming. I learned a lot from the practices and I enjoyed it. As the saying goes, where there is a will, there is a way. Although there are seven years since I work, I know there still has a long way to go, and I am trying to be a better programmer.",
-		"email": "wangyuyan@qq.com",
-		"mobile": "12011012315",
-		"website": "https://www.cnblogs.com/xifengxiaoma/",
+		"profileInfo": "I have great interested in science, physics and math since I was a boy. I still remember the first time I play computer in junior middle school, that made me excited. I began programming in senior middle school, I love it and determined to be a engineer in the future and I did. When I graduated from Liaoning Technical University in 2013, I had worked for several company with Java Taijigramming. I learned a lot from the practices and I enjoyed it. As the saying goes, where there is a will, there is a way. Although there are seven years since I work, I know there still has a long way to go, and I am trying to be a better programmer.",
+		"email": "728747478@qq.com",
+		"mobile": "18842574430",
+		"website": "https://ren88122246.github.io",
 		"authorTitle": "Author",
 		"authorValue": "Zhaoyuyiqingchen",
 		"sourceCode": "Source Code"
@@ -97,20 +97,20 @@ en_us({
 		"topSkills": [{
 			"name": "Java",
 			"percent": "98",
-			"level": "Expert, 8+ years",
-			"time": "2016 - Present",
+			"level": "Expert, 6+ years",
+			"time": "2013 - Present",
 			"desc": "desc here."
 		}, {
 			"name": "Spring Boot",
 			"percent": "97",
-			"level": "Expert, 5+ years",
+			"level": "Expert, 3+ years",
 			"time": "2016 - Present",
 			"desc": "desc here."
 		}, {
-			"name": "Spring Cloud",
+			"name": "Vue",
 			"percent": "95",
-			"level": "Expert, 3+ years",
-			"time": "2016 - Present",
+			"level": "Expert, 2+ years",
+			"time": "2017 - Present",
 			"desc": "desc here."
 		}],
 		"otherSkills": [{
